@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">30DaysApp</string>
+
+    <string name="desc1">Day 1</string>
+    <string name="desc2">Day 2</string>
+    <string name="desc3">Day 3</string>
+    <string name="desc4">Day 4</string>
+    <string name="desc5">Day 5</string>
+    <string name="desc6">Day 6</string>
+    <string name="desc7">Day 7</string>
+    <string name="desc8">Day 8</string>
+    <string name="desc9">Day 9</string>
+    <string name="desc10">Day 10</string>
+
+
+
+
+
+    <string name="description1">Hari pertama saya berada di Tokyo dengan pemandangan yang indah disajikan oleh gunung yang tinggi.</string>
+    <string name="description2">Hari kedua saya berada di Jakarta untuk menghadiri pertemuan penting dengan bapak presiden Prabowo.</string>
+    <string name="description3">Kemudian saya melanjutkan pergi ke Kuala Lumpur untuk bertemu dengan Upin Ipin dkk.</string>
+    <string name="description4">Di hari keempat saya berkunjung ke Shanghai untuk melihat keindahan negara termaju.</string>
+    <string name="description5">Tepat pada hari ke lima saya juga berkunjung di New York yang merupakan negara termaju di dunia yang tak beda jauh dengan yang aa di Cina yaitu Sanghai.</string>
+    <string name="description6">Di hari keenam saya berada di Moscow sebuah Ibu Kota yang berada di Rusia yang merupakan negara dengan wilayah terluas.</string>
+    <string name="description7">Pada hari ke 7 saya berada di Amsterdam untuk menikmati ketenangan kota yang berada di benua Eropa.</string>
+    <string name="description8">Hari ke 8 saya berada di Berlin yaitu sebuah Ibu Kota di Jerman.</string>
+    <string name="description9">Pada hari kesembilan saya berkunjung ke Paris untuk menikmati keindahan menara Eiffel.</string>
+    <string name="description10">Tepat pada hari terakhir saya berkunjung ke Itali yang menyuguhkan bangunan bersejarah yaitu Colosseum Roma.</string>
+
+    <string name="about">Pesan:</string>
+</resources>
